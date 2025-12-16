@@ -4,7 +4,7 @@
 
 </div>
 
-[FSL-1.1-MIT]: https://github.com/awfixer-social/.github/blob/main/profile/FSL-1.1-MIT
+[FSL-1.1-MIT]: https://github.com/awfixer-social/.github/blob/main/FSL-1.1-MIT.md
 
 
 AWFixer is a social market for opinionated people.
